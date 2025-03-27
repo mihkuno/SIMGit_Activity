@@ -1,1 +1,8 @@
-I've been using Git for a long time, managing projects with version control, branching strategies, and collaborative workflows. I'm comfortable with Git commands like commit, merge, rebase, and handling pull requests efficiently. Over time, I've streamlined my workflow, integrating Git with CI/CD pipelines and issue tracking systems to maintain clean and organized repositories.
+1. What challenges did you face during this activity?
+- While I'm experienced with Git, complex tasks still require documentation and Stack Overflow. Routine tasks are mastered, but edge cases involving intricate branching or configurations push the limits of my knowledge, highlighting the continuous learning nature of version control.
+
+2. Which Git command was the most confusing?
+- git rebase is the most confusing due to its unpredictable conflict potential compared to git merge. Its history-rewriting nature demands a deeper understanding of Git's mechanics, making it challenging to anticipate and manage conflicts effectively.
+
+3. How can version control help in real-world software development?
+- Version control is essential in software development, enabling change tracking, collaborative work, and feature isolation. It facilitates code reviews, manages deployments, aids in disaster recovery, and improves team communication, ensuring code integrity and efficient development workflows.
