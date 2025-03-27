@@ -1,0 +1,1 @@
+I've been using Git for a long time, managing projects with version control, branching strategies, and collaborative workflows. I'm comfortable with Git commands like commit, merge, rebase, and handling pull requests efficiently. Over time, I've streamlined my workflow, integrating Git with CI/CD pipelines and issue tracking systems to maintain clean and organized repositories.
